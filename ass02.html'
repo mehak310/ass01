@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>this is my first module</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        label {
+            display: block;
+            margin-bottom: 10px;
+        }
+        input[type="text"], input[type="date"] {
+            padding: 8px;
+            width: 300px;
+            margin-bottom: 20px;
+        }
+       
+    </style>
+</head>
+<body>
+
+<h1>Name: Mehakdeep Kaur
+</h1>
+<h1>
+File name: Ass01
+</h1>
+<h1>
+
+Desc: I had  use my name and date via header tag of html
+</h1>
+<title>Colored Text Example</title>
+</head>
+<body>
+    <h1 style="color: blue;">This is a Blue Heading</h1>
+    <p style="color: green;">This is a paragraph with green text.</p>
+    <p style="color: red;">This is a paragraph with red text.</p>
+ <h1>Welcome to My Website</h1>
+    <p>Click the link below to visit OpenAI:</p>
+    <a href="https://www.openai.com" target="_blank">Visit OpenAI</a>
+
+
+
+
+</body>
+</html>
